@@ -14,3 +14,5 @@ You will complete partially written C++ code (“pre-code”) that implements:
 * Insertion using sift-up
 * Removal of the root using sift-down
 * Removal of an arbitrary index (sift-up then sift-down)
+
+You will be making changes in the minHeap.tpp file and implement the code in heapsort method in Week16Mon.cpp.
